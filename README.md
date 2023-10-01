@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This bullshit is for dasdasdasdashowing how Git and GitHub work
+This bullshit is for dasdasdasdashowing how Git and GitHub work. Updating e
 
 ## Purpose
 
